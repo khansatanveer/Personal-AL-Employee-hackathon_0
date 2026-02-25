@@ -1,0 +1,9 @@
+{
+  "from": "client@example.com",
+  "to": "me@example.com",
+  "subject": "Urgent: Project Update Required",
+  "body": "Hi, we need an update on the project status by tomorrow. The client is waiting for the deliverables.",
+  "received": "2026-02-26T03:21:04.310396",
+  "priority": "high",
+  "requires_response": true
+}
