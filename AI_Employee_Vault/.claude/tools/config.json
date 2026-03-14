@@ -1,0 +1,78 @@
+{
+  "tools": [
+    {
+      "name": "check_urgent_emails",
+      "description": "Check Gmail for urgent/unread emails and create action items in Needs_Action folder",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "vault_path": {
+            "type": "string",
+            "description": "Path to the AI Employee vault (default: 'AI_Employee_Vault')"
+          }
+        },
+        "required": []
+      }
+    },
+    {
+      "name": "read_vault_file",
+      "description": "Read a specific file from the vault",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "filepath": {
+            "type": "string",
+            "description": "Path to the file relative to vault directory"
+          }
+        },
+        "required": ["filepath"]
+      }
+    },
+    {
+      "name": "write_vault_file",
+      "description": "Write content to a file in the vault",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "filepath": {
+            "type": "string",
+            "description": "Path where to save the file relative to vault directory"
+          },
+          "content": {
+            "type": "string",
+            "description": "Content to write to the file"
+          }
+        },
+        "required": ["filepath", "content"]
+      }
+    },
+    {
+      "name": "list_vault_directory",
+      "description": "List files in a specific vault directory",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "directory": {
+            "type": "string",
+            "description": "Directory name relative to vault (e.g., 'Needs_Action', 'Inbox', 'Done')"
+          }
+        },
+        "required": ["directory"]
+      }
+    },
+    {
+      "name": "update_dashboard_status",
+      "description": "Update the Dashboard.md file with current status information",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "status_updates": {
+            "type": "object",
+            "description": "Dictionary with status information to update"
+          }
+        },
+        "required": ["status_updates"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "tools_enabled": true,
+  "tools_directory": ".claude/tools",
+  "default_model": "claude-3-5-sonnet-20241022"
+}
