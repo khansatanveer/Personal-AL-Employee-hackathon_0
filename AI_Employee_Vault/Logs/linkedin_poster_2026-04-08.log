@@ -1,0 +1,238 @@
+2026-04-08 15:23:51,042 - LinkedInPoster - INFO - Found 0 approved post(s)
+2026-04-08 15:36:49,574 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:36:49,575 - LinkedInPoster - INFO -   LINKEDIN POSTER - FULLY AUTOMATIC
+2026-04-08 15:36:49,575 - LinkedInPoster - INFO -   Personal AI Employee Hackathon 0
+2026-04-08 15:36:49,575 - LinkedInPoster - INFO - ======================================================================
+
+2026-04-08 15:36:49,576 - LinkedInPoster - INFO - Found 0 approved post(s)
+2026-04-08 15:36:49,577 - LinkedInPoster - INFO - No approved posts found!
+2026-04-08 15:36:49,577 - LinkedInPoster - INFO - 
+To create and approve posts:
+2026-04-08 15:36:49,581 - LinkedInPoster - INFO -   1. python -c "from agent_skills import AIEmployeeSkills; s = AIEmployeeSkills(); s.create_linkedin_post('Your content')"
+2026-04-08 15:36:49,581 - LinkedInPoster - INFO -   2. move Social_Posts\*.md Approved\
+2026-04-08 15:36:49,581 - LinkedInPoster - INFO -   3. python watchers/linkedin_poster.py
+2026-04-08 15:39:10,067 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:39:10,068 - LinkedInPoster - INFO -   LINKEDIN POSTER - FULLY AUTOMATIC
+2026-04-08 15:39:10,068 - LinkedInPoster - INFO -   Personal AI Employee Hackathon 0
+2026-04-08 15:39:10,069 - LinkedInPoster - INFO - ======================================================================
+
+2026-04-08 15:39:10,071 - LinkedInPoster - INFO - Found 1 approved post(s)
+2026-04-08 15:39:10,071 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:39:10,072 - LinkedInPoster - INFO - INITIALIZING BROWSER
+2026-04-08 15:39:10,072 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:39:29,142 - LinkedInPoster - INFO - ✓ Browser initialized
+2026-04-08 15:39:29,175 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:39:29,176 - LinkedInPoster - INFO - STEP 1: Opening LinkedIn feed
+2026-04-08 15:39:29,177 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:39:29,178 - LinkedInPoster - INFO -   Navigating to linkedin.com/feed...
+2026-04-08 15:39:36,858 - LinkedInPoster - INFO -   Checking for challenge/verification page...
+2026-04-08 15:39:37,051 - LinkedInPoster - INFO -   Page loaded, adding human-like scroll...
+2026-04-08 15:39:37,631 - LinkedInPoster - INFO -   📜 Scrolled down (219px)
+2026-04-08 15:39:39,556 - LinkedInPoster - INFO -   📜 Scrolled up (269px)
+2026-04-08 15:39:39,556 - LinkedInPoster - INFO -   Current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed
+2026-04-08 15:39:39,569 - LinkedInPoster - WARNING -   ⚠️  Not on feed, current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed
+2026-04-08 15:39:39,570 - LinkedInPoster - INFO -   Attempting to navigate to feed again...
+2026-04-08 15:39:46,401 - LinkedInPoster - ERROR - ✗ Failed to load LinkedIn. Check login status.
+2026-04-08 15:39:47,304 - LinkedInPoster - INFO - 📸 Screenshot saved: Logs\LINKEDIN_LOAD_FAILED.png (Could not load LinkedIn feed)
+2026-04-08 15:39:47,305 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:39:47,308 - LinkedInPoster - INFO - CLEANUP
+2026-04-08 15:39:47,316 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:39:48,129 - LinkedInPoster - INFO - Browser cleanup complete
+2026-04-08 15:42:32,920 - LinkedInPoster - INFO - ✓ Browser initialized
+2026-04-08 15:42:32,923 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:42:32,927 - LinkedInPoster - INFO - STEP 1: Opening LinkedIn feed
+2026-04-08 15:42:32,928 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:42:32,940 - LinkedInPoster - INFO -   Navigating to linkedin.com/feed...
+2026-04-08 15:42:39,831 - LinkedInPoster - INFO -   Checking for challenge/verification page...
+2026-04-08 15:42:40,542 - LinkedInPoster - INFO -   Page loaded, adding human-like scroll...
+2026-04-08 15:42:41,779 - LinkedInPoster - INFO -   📜 Scrolled down (218px)
+2026-04-08 15:42:44,771 - LinkedInPoster - INFO -   📜 Scrolled up (136px)
+2026-04-08 15:42:44,772 - LinkedInPoster - INFO -   Current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed
+2026-04-08 15:42:44,773 - LinkedInPoster - WARNING -   ⚠️  Not on feed, current URL: https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed
+2026-04-08 15:42:44,773 - LinkedInPoster - INFO -   Attempting to navigate to feed again...
+2026-04-08 15:43:51,515 - LinkedInPoster - INFO - Browser cleanup complete
+2026-04-08 15:43:55,858 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:43:55,859 - LinkedInPoster - INFO -   LINKEDIN POSTER - FULLY AUTOMATIC
+2026-04-08 15:43:55,862 - LinkedInPoster - INFO -   Personal AI Employee Hackathon 0
+2026-04-08 15:43:55,863 - LinkedInPoster - INFO - ======================================================================
+
+2026-04-08 15:43:55,874 - LinkedInPoster - INFO - Found 1 approved post(s)
+2026-04-08 15:43:55,879 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:43:55,881 - LinkedInPoster - INFO - INITIALIZING BROWSER
+2026-04-08 15:43:55,889 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:43:57,773 - LinkedInPoster - INFO - ✓ Browser initialized
+2026-04-08 15:43:57,786 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:43:57,790 - LinkedInPoster - INFO - STEP 1: Opening LinkedIn feed
+2026-04-08 15:43:57,798 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:43:57,800 - LinkedInPoster - INFO -   Navigating to linkedin.com/feed...
+2026-04-08 15:44:06,843 - LinkedInPoster - INFO -   Checking for challenge/verification page...
+2026-04-08 15:44:09,080 - LinkedInPoster - INFO -   Page loaded, adding human-like scroll...
+2026-04-08 15:44:10,495 - LinkedInPoster - INFO -   📜 Scrolled down (312px)
+2026-04-08 15:44:12,224 - LinkedInPoster - INFO -   📜 Scrolled up (187px)
+2026-04-08 15:44:12,224 - LinkedInPoster - INFO -   Current URL: https://www.linkedin.com/feed/
+2026-04-08 15:44:12,225 - LinkedInPoster - INFO - ✓ Successfully on LinkedIn feed
+2026-04-08 15:44:12,226 - LinkedInPoster - INFO - 
+📦 Selected post for this run: LINKEDIN_20260408_153821_b871f904.md
+2026-04-08 15:44:12,232 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:44:12,233 - LinkedInPoster - INFO - 📝 POSTING: LINKEDIN_20260408_153821_b871f904.md
+2026-04-08 15:44:12,249 - LinkedInPoster - INFO - ======================================================================
+2026-04-08 15:44:12,251 - LinkedInPoster - INFO - 📊 Length: 157 chars
+2026-04-08 15:44:12,252 - LinkedInPoster - INFO - 📝 Preview: 🚀 My AI Employee is now fully automated! It can create and publish LinkedIn posts without manual eff...
+
+2026-04-08 15:44:12,254 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:44:12,256 - LinkedInPoster - INFO - STEP 2: Opening post composer
+2026-04-08 15:44:12,258 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:44:13,682 - LinkedInPoster - INFO -   🖱️  Mouse moved to (1064, 561)
+2026-04-08 15:44:13,683 - LinkedInPoster - INFO -   Scrolling to find 'Start a post' button...
+2026-04-08 15:44:13,984 - LinkedInPoster - INFO -   📜 Scrolled down (300px)
+2026-04-08 15:44:14,774 - LinkedInPoster - INFO -   Attempt 1: Trying selector 'button[aria-label="Start a post"]...'
+2026-04-08 15:44:14,796 - LinkedInPoster - INFO -   Attempt 2: Trying selector 'button[aria-label*="Start a post"]...'
+2026-04-08 15:44:14,854 - LinkedInPoster - INFO -   Attempt 3: Trying selector 'div[role="button"]:has-text("Start a post")...'
+2026-04-08 15:44:16,069 - LinkedInPoster - INFO -   🖱️  Mouse moved to (360, 600)
+2026-04-08 15:44:16,774 - LinkedInPoster - INFO -   ✓ Clicked 'Start a post' (selector: div[role="button"]:has-text("Start a pos)
+2026-04-08 15:44:18,580 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:44:18,581 - LinkedInPoster - INFO - STEP 3: Waiting for composer modal
+2026-04-08 15:44:18,589 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:44:18,591 - LinkedInPoster - INFO -   Waiting up to 15 seconds for dialog...
+2026-04-08 15:44:33,641 - LinkedInPoster - ERROR - ✗ Modal did not appear: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"dialog\"]").first to be visible
+    31 × locator resolved to hidden <div tabindex="-1" role="dialog" aria-hidden="true" aria-live="polite" aria-label="Modal Window" class="vjs-error-display vjs-modal-dialog vjs-hidden " aria-describedby="\32 RbAsIqMBwRn6ckI3YzRvA\3d\3d_component_622_description">…</div>
+
+2026-04-08 15:44:34,530 - LinkedInPoster - INFO - 📸 Screenshot saved: Logs\MODAL_NOT_FOUND.png (Composer modal not found)
+2026-04-08 15:44:34,531 - LinkedInPoster - ERROR - ✗ Modal did not appear
+2026-04-08 15:44:34,548 - LinkedInPoster - ERROR - 
+======================================================================
+2026-04-08 15:44:34,566 - LinkedInPoster - ERROR -   ✗ POSTING FAILED
+2026-04-08 15:44:34,574 - LinkedInPoster - ERROR - ======================================================================
+2026-04-08 15:44:34,597 - LinkedInPoster - ERROR -   Check logs and screenshots for details
+2026-04-08 15:44:34,602 - LinkedInPoster - ERROR - ======================================================================
+
+2026-04-08 15:44:34,611 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:44:34,614 - LinkedInPoster - INFO - CLEANUP
+2026-04-08 15:44:34,643 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:44:35,532 - LinkedInPoster - INFO - Browser cleanup complete
+2026-04-08 15:49:25,804 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:49:25,804 - LinkedInPoster - INFO -   LINKEDIN POSTER - FULLY AUTOMATIC
+2026-04-08 15:49:25,805 - LinkedInPoster - INFO -   Personal AI Employee Hackathon 0
+2026-04-08 15:49:25,805 - LinkedInPoster - INFO - ======================================================================
+
+2026-04-08 15:49:25,807 - LinkedInPoster - INFO - Found 1 approved post(s)
+2026-04-08 15:49:25,808 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:25,808 - LinkedInPoster - INFO - INITIALIZING BROWSER
+2026-04-08 15:49:25,809 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:27,889 - LinkedInPoster - INFO - ✓ Browser initialized
+2026-04-08 15:49:27,904 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:27,915 - LinkedInPoster - INFO - STEP 1: Opening LinkedIn feed
+2026-04-08 15:49:27,923 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:27,924 - LinkedInPoster - INFO -   Navigating to linkedin.com/feed...
+2026-04-08 15:49:36,613 - LinkedInPoster - INFO -   Checking for challenge/verification page...
+2026-04-08 15:49:37,501 - LinkedInPoster - INFO -   Page loaded, adding human-like scroll...
+2026-04-08 15:49:38,424 - LinkedInPoster - INFO -   📜 Scrolled down (314px)
+2026-04-08 15:49:40,951 - LinkedInPoster - INFO -   📜 Scrolled up (159px)
+2026-04-08 15:49:40,952 - LinkedInPoster - INFO -   Current URL: https://www.linkedin.com/feed/
+2026-04-08 15:49:40,957 - LinkedInPoster - INFO - ✓ Successfully on LinkedIn feed
+2026-04-08 15:49:40,966 - LinkedInPoster - INFO - 
+📦 Selected post for this run: LINKEDIN_20260408_153821_b871f904.md
+2026-04-08 15:49:40,968 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:49:40,969 - LinkedInPoster - INFO - 📝 POSTING: LINKEDIN_20260408_153821_b871f904.md
+2026-04-08 15:49:40,971 - LinkedInPoster - INFO - ======================================================================
+2026-04-08 15:49:40,978 - LinkedInPoster - INFO - 📊 Length: 157 chars
+2026-04-08 15:49:40,984 - LinkedInPoster - INFO - 📝 Preview: 🚀 My AI Employee is now fully automated! It can create and publish LinkedIn posts without manual eff...
+
+2026-04-08 15:49:40,986 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:40,991 - LinkedInPoster - INFO - STEP 2: Opening post composer
+2026-04-08 15:49:40,993 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:43,005 - LinkedInPoster - INFO -   🖱️  Mouse moved to (975, 209)
+2026-04-08 15:49:43,005 - LinkedInPoster - INFO -   Scrolling to find 'Start a post' button...
+2026-04-08 15:49:43,461 - LinkedInPoster - INFO -   📜 Scrolled down (300px)
+2026-04-08 15:49:44,021 - LinkedInPoster - INFO -   Attempt 1: Trying selector 'button[aria-label="Start a post"]...'
+2026-04-08 15:49:44,053 - LinkedInPoster - INFO -   Attempt 2: Trying selector 'button[aria-label*="Start a post"]...'
+2026-04-08 15:49:44,075 - LinkedInPoster - INFO -   Attempt 3: Trying selector 'div[role="button"]:has-text("Start a post")...'
+2026-04-08 15:49:44,928 - LinkedInPoster - INFO -   🖱️  Mouse moved to (407, 648)
+2026-04-08 15:49:45,807 - LinkedInPoster - INFO -   ✓ Clicked 'Start a post' (selector: div[role="button"]:has-text("Start a pos)
+2026-04-08 15:49:47,523 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:47,524 - LinkedInPoster - INFO - STEP 3: Waiting for composer modal
+2026-04-08 15:49:47,531 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:47,541 - LinkedInPoster - INFO -   Waiting up to 15 seconds for dialog...
+2026-04-08 15:49:47,945 - LinkedInPoster - INFO -   ✓ Composer modal found (selector: div[role="dialog"] div[contenteditable=")
+2026-04-08 15:49:50,545 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:50,546 - LinkedInPoster - INFO - STEP 4: Finding textbox in composer
+2026-04-08 15:49:50,552 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:52,587 - LinkedInPoster - INFO -   ✓ Textbox found (selector: div[role="dialog"] div[contenteditable="true"][rol)
+2026-04-08 15:49:53,151 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:53,153 - LinkedInPoster - INFO - STEP 5: Entering content with human-like typing
+2026-04-08 15:49:53,159 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:49:53,162 - LinkedInPoster - INFO -   Content length: 157 characters
+2026-04-08 15:49:53,170 - LinkedInPoster - INFO -   Preview: 🚀 My AI Employee is now fully automated! It can create and publish LinkedIn posts without manual eff...
+2026-04-08 15:49:53,174 - LinkedInPoster - INFO -   Clicking to focus textbox...
+2026-04-08 15:49:54,182 - LinkedInPoster - INFO -   Clearing any existing content...
+2026-04-08 15:49:55,043 - LinkedInPoster - INFO -   ⌨️  Typing content with realistic delays...
+2026-04-08 15:50:11,463 - LinkedInPoster - INFO -     Progress: 100% (157/157 chars)
+2026-04-08 15:50:14,993 - LinkedInPoster - INFO - ✓ Typed 157 characters successfully
+2026-04-08 15:50:14,994 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:50:15,002 - LinkedInPoster - INFO - STEP 6: Enabling and clicking Post button
+2026-04-08 15:50:15,007 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:50:15,010 - LinkedInPoster - INFO -   ⏳ Waiting for Post button to enable...
+2026-04-08 15:50:15,032 - LinkedInPoster - INFO -     Waiting... (0s/30s)
+2026-04-08 15:50:17,047 - LinkedInPoster - INFO -     Waiting... (2s/30s)
+2026-04-08 15:50:19,062 - LinkedInPoster - INFO -     Waiting... (4s/30s)
+2026-04-08 15:50:21,080 - LinkedInPoster - INFO -     Waiting... (6s/30s)
+2026-04-08 15:50:23,095 - LinkedInPoster - INFO -     Waiting... (8s/30s)
+2026-04-08 15:50:25,336 - LinkedInPoster - INFO -   🖱️  Mouse moved to (1026, 422)
+2026-04-08 15:50:25,351 - LinkedInPoster - INFO -     Waiting... (10s/30s)
+2026-04-08 15:50:27,369 - LinkedInPoster - INFO -     Waiting... (12s/30s)
+2026-04-08 15:50:29,382 - LinkedInPoster - INFO -     Waiting... (14s/30s)
+2026-04-08 15:50:31,395 - LinkedInPoster - INFO -     Waiting... (16s/30s)
+2026-04-08 15:50:33,410 - LinkedInPoster - INFO -     Waiting... (18s/30s)
+2026-04-08 15:50:35,687 - LinkedInPoster - INFO -   🖱️  Mouse moved to (918, 450)
+2026-04-08 15:50:35,702 - LinkedInPoster - INFO -     Waiting... (20s/30s)
+2026-04-08 15:50:37,717 - LinkedInPoster - INFO -     Waiting... (22s/30s)
+2026-04-08 15:50:39,729 - LinkedInPoster - INFO -     Waiting... (24s/30s)
+2026-04-08 15:50:41,743 - LinkedInPoster - INFO -     Waiting... (26s/30s)
+2026-04-08 15:50:43,755 - LinkedInPoster - INFO -     Waiting... (28s/30s)
+2026-04-08 15:50:45,929 - LinkedInPoster - INFO -   🖱️  Mouse moved to (908, 201)
+2026-04-08 15:50:45,930 - LinkedInPoster - WARNING -   ⚠️  Post button did not enable after 30s
+2026-04-08 15:50:48,082 - LinkedInPoster - INFO -   🖱️  Mouse moved to (245, 115)
+2026-04-08 15:50:48,083 - LinkedInPoster - INFO -   Method 1: DOM query for Post button...
+2026-04-08 15:50:53,733 - LinkedInPoster - INFO -     Found enabled Post button: 'Post'
+2026-04-08 15:50:54,264 - LinkedInPoster - INFO -   ✓ Method 1: Clicked Post button via DOM
+2026-04-08 15:50:58,117 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:50:58,119 - LinkedInPoster - INFO - STEP 7: Verifying post publication
+2026-04-08 15:50:58,135 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:50:58,138 - LinkedInPoster - INFO -   Waiting for composer modal to close...
+2026-04-08 15:51:01,183 - LinkedInPoster - INFO - ✓ Composer modal closed
+2026-04-08 15:51:01,186 - LinkedInPoster - INFO -   Waiting for feed to reload...
+2026-04-08 15:51:06,591 - LinkedInPoster - INFO -   📜 Scrolled down (262px)
+2026-04-08 15:51:08,577 - LinkedInPoster - INFO -   Checking for success indicators...
+2026-04-08 15:51:08,609 - LinkedInPoster - INFO - ✓ Found 'View post' link - post successful!
+2026-04-08 15:51:09,580 - LinkedInPoster - INFO - 📸 Screenshot saved: Logs\POST_SUCCESS_1775645468.png (Post published successfully)
+2026-04-08 15:51:09,582 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:51:09,588 - LinkedInPoster - INFO - ✅ POST VERIFIED SUCCESSFULLY
+2026-04-08 15:51:09,595 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:51:09,614 - LinkedInPoster - INFO - ✓ Dashboard updated
+2026-04-08 15:51:09,615 - LinkedInPoster - INFO - 💾 Saving to Done folder...
+2026-04-08 15:51:09,631 - LinkedInPoster - INFO - ✓ Saved to Done folder
+2026-04-08 15:51:09,638 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:51:09,640 - LinkedInPoster - INFO - ✅✅✅ SUCCESS! Post published successfully! ✅✅✅
+2026-04-08 15:51:09,648 - LinkedInPoster - INFO - ======================================================================
+
+2026-04-08 15:51:09,652 - LinkedInPoster - INFO - 
+======================================================================
+2026-04-08 15:51:09,670 - LinkedInPoster - INFO -   ✅ POST SUCCESSFULLY PUBLISHED
+2026-04-08 15:51:09,673 - LinkedInPoster - INFO - ======================================================================
+2026-04-08 15:51:09,675 - LinkedInPoster - INFO -   📝 File: LINKEDIN_20260408_153821_b871f904.md
+2026-04-08 15:51:09,678 - LinkedInPoster - INFO -   📸 Check Logs folder for screenshots
+2026-04-08 15:51:09,682 - LinkedInPoster - INFO - ======================================================================
+
+2026-04-08 15:51:09,693 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:51:09,701 - LinkedInPoster - INFO - CLEANUP
+2026-04-08 15:51:09,703 - LinkedInPoster - INFO - ============================================================
+2026-04-08 15:51:10,565 - LinkedInPoster - INFO - Browser cleanup complete

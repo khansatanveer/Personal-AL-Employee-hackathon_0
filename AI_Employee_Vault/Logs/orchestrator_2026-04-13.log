@@ -1,0 +1,6 @@
+2026-04-13 15:41:45,044 - Orchestrator - INFO - Starting orchestrator (mode: all)
+2026-04-13 15:41:45,051 - Orchestrator - INFO - Started watcher: Gmail (PID: 18032)
+2026-04-13 15:41:45,061 - Orchestrator - INFO - Started watcher: LinkedIn (PID: 12052)
+2026-04-13 15:46:06,596 - Orchestrator - INFO - Starting orchestrator (mode: all)
+2026-04-13 15:46:06,606 - Orchestrator - INFO - Started watcher: Gmail (PID: 756)
+2026-04-13 15:46:06,620 - Orchestrator - INFO - Started watcher: LinkedIn (PID: 9336)

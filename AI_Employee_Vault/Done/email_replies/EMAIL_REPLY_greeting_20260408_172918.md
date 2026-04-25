@@ -1,0 +1,67 @@
+---
+type: email_reply_approval
+created: 2026-04-08T17:29:18.015522
+email_file: GMAIL_Khansa__greeting_20260408_172918.md
+email_subject: greeting
+email_from: Khansa <khansatanveerahmed@gmail.com>
+priority: normal
+status: sent
+---
+
+# Email Reply Approval Request
+
+**Created:** 2026-04-08T17:29:18.015557
+**Source Email:** GMAIL_Khansa__greeting_20260408_172918.md
+**Priority:** NORMAL
+
+## Email Details
+
+**From:** Khansa <khansatanveerahmed@gmail.com>
+**Subject:** greeting
+**Date:** Wed, 8 Apr 2026 16:56:40 +0500
+
+## Suggested Reply
+
+Hi Khansa,
+
+Thank you for your email. I've received your message and will review it carefully.
+
+I'll respond with the information you need as soon as possible.
+
+Best regards,
+Khansa Tanveer
+
+---
+
+## Approval Required
+
+- [x] **APPROVE** - Send this reply as-is
+- [ ] **MODIFY** - Edit the reply before sending
+- [ ] **REJECT** - Do not reply
+- [ ] **ESCALATE** - Forward to human for handling
+
+## Approval Decision
+
+Approved by: ________________
+Decision: APPROVE / MODIFY / REJECT
+Date: ________________
+Notes: ________________
+
+## Processing Instructions
+
+1. Review the suggested reply above
+2. Check if the tone and content are appropriate
+3. Approve, modify, or reject as needed
+4. Move to Approved/ after decision
+
+---
+*Created by Gmail Watcher for AI Employee (Silver Tier)*
+
+## Execution Result
+
+- **Sent at:** 2026-04-08T18:36:13.228638
+- **Message ID:** 19d6d4ec8b725457
+- **Status:** ✅ Email sent successfully
+
+---
+*Email sent automatically by Gmail Watcher*

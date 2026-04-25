@@ -1,0 +1,820 @@
+2026-04-08 15:56:52,023 - GmailWatcher - INFO - Starting OAuth flow...
+2026-04-08 15:56:52,023 - GmailWatcher - INFO - Browser will open for authorization...
+2026-04-08 15:56:52,498 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=485069106798-e9gmstb1g0n0grtoemj2k23vegm837rq.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=B016DQOyCmtt4T6Xr0BpOt6IjuFr13&code_challenge=aosa0N4ezFhc6EmZibvsRupiiHPBtCvc3ee06e7M6Rw&code_challenge_method=S256&access_type=offline
+2026-04-08 15:57:10,198 - google_auth_oauthlib.flow - INFO - "GET /?state=B016DQOyCmtt4T6Xr0BpOt6IjuFr13&iss=https://accounts.google.com&code=4/0Aci98E-dCJaCMtbTmI1-Liq7IeQwpMHeY0Ev72pk0iR5c-qfc5BmU7_NtohpmZArdLXyzQ&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-04-08 15:57:12,329 - GmailWatcher - INFO - Token saved to: credentials\gmail_token.pickle
+2026-04-08 15:57:12,361 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 15:57:14,876 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 15:57:14,877 - GmailWatcher - INFO -    Total messages: 96
+2026-04-08 15:57:14,889 - GmailWatcher - INFO - ============================================================
+2026-04-08 15:57:14,891 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-08 15:57:14,893 - GmailWatcher - INFO - Vault: .
+2026-04-08 15:57:14,895 - GmailWatcher - INFO - Check interval: 120s
+2026-04-08 15:57:14,898 - GmailWatcher - INFO - Dry run: False
+2026-04-08 15:57:14,904 - GmailWatcher - INFO - ============================================================
+2026-04-08 15:57:14,906 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-08 15:57:14,916 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-08 15:57:15,183 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 15:57:15,494 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Google__Security_alert_20260408_155715.md
+2026-04-08 15:57:15,503 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:15,724 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_155715.md
+2026-04-08 15:57:15,732 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:15,984 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_155715.md
+2026-04-08 15:57:15,988 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:16,260 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.Hussain_20260408_155716.md
+2026-04-08 15:57:16,267 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:16,502 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_your_posts_got_29_impressions_last_20260408_155716.md
+2026-04-08 15:57:16,509 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:16,751 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_155716.md
+2026-04-08 15:57:16,758 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:17,010 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_Please_supp_20260408_155717.md
+2026-04-08 15:57:17,020 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:17,289 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_155717.md
+2026-04-08 15:57:17,295 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:17,628 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__𝓘𝓽𝔁_𝓢𝓱𝓪𝔂𝓪𝓷__Personal_room_😭__#superiorcollege_シ゚__20260408_155717.md
+2026-04-08 15:57:17,636 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 15:57:17,926 - GmailWatcher - INFO - ✓ Created action file: GMAIL_ChatGPT__Write_faster_with_ChatGPT_20260408_155717.md
+2026-04-08 15:57:17,936 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:09:19,855 - GmailWatcher - INFO - Found 1 new message(s)
+2026-04-08 16:09:20,071 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 16:09:20,078 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:19:42,453 - GmailWatcher - INFO - 
+Gmail Watcher stopped by user
+2026-04-08 16:52:32,364 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 16:52:32,371 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 16:52:33,492 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 16:52:33,492 - GmailWatcher - INFO -    Total messages: 99
+2026-04-08 16:52:33,493 - GmailWatcher - INFO - ============================================================
+2026-04-08 16:52:33,493 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-08 16:52:33,493 - GmailWatcher - INFO - Vault: .
+2026-04-08 16:52:33,493 - GmailWatcher - INFO - Check interval: 120s
+2026-04-08 16:52:33,494 - GmailWatcher - INFO - Dry run: False
+2026-04-08 16:52:33,494 - GmailWatcher - INFO - ============================================================
+2026-04-08 16:52:33,495 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-08 16:52:33,495 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-08 16:52:33,705 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 16:52:33,932 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260408_165233.md
+2026-04-08 16:52:33,938 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260408_165233.md
+2026-04-08 16:52:33,946 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260408_165233.md
+2026-04-08 16:52:33,961 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:34,407 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 16:52:34,408 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 16:52:34,421 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 16:52:34,424 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:35,033 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Google__Security_alert_20260408_165235.md
+2026-04-08 16:52:35,041 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Security_alert_20260408_165235.md
+2026-04-08 16:52:35,051 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:35,474 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_165235.md
+2026-04-08 16:52:35,480 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_165235.md
+2026-04-08 16:52:35,496 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:36,194 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_165236.md
+2026-04-08 16:52:36,196 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_165236.md
+2026-04-08 16:52:36,207 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:36,476 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.Hussain_20260408_165236.md
+2026-04-08 16:52:36,482 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.H_20260408_165236.md
+2026-04-08 16:52:36,487 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:36,716 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_your_posts_got_29_impressions_last_20260408_165236.md
+2026-04-08 16:52:36,717 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_your_posts_got_29_impres_20260408_165236.md
+2026-04-08 16:52:36,723 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:36,960 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_165236.md
+2026-04-08 16:52:36,962 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260408_165236.md
+2026-04-08 16:52:36,970 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:37,212 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_Please_supp_20260408_165237.md
+2026-04-08 16:52:37,219 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_P_20260408_165237.md
+2026-04-08 16:52:37,230 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:52:37,506 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_165237.md
+2026-04-08 16:52:37,508 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260408_165237.md
+2026-04-08 16:52:37,516 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:49,575 - GmailWatcher - INFO - 
+Gmail Watcher stopped by user
+2026-04-08 16:57:53,961 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 16:57:53,961 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 16:57:54,997 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 16:57:56,020 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 16:57:56,021 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 16:57:56,022 - GmailWatcher - INFO - ============================================================
+2026-04-08 16:57:56,022 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-08 16:57:56,023 - GmailWatcher - INFO - Vault: .
+2026-04-08 16:57:56,023 - GmailWatcher - INFO - Check interval: 120s
+2026-04-08 16:57:56,024 - GmailWatcher - INFO - Dry run: False
+2026-04-08 16:57:56,024 - GmailWatcher - INFO - ============================================================
+2026-04-08 16:57:56,025 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-08 16:57:56,027 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-08 16:57:56,268 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 16:57:56,481 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__greeting_20260408_165756.md
+2026-04-08 16:57:56,487 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_greeting_20260408_165756.md
+2026-04-08 16:57:56,489 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_greeting_20260408_165756.md
+2026-04-08 16:57:56,497 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:56,724 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260408_165756.md
+2026-04-08 16:57:56,727 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260408_165756.md
+2026-04-08 16:57:56,733 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260408_165756.md
+2026-04-08 16:57:56,739 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:56,963 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 16:57:56,970 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 16:57:56,972 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 16:57:56,980 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:57,209 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Google__Security_alert_20260408_165757.md
+2026-04-08 16:57:57,211 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Security_alert_20260408_165757.md
+2026-04-08 16:57:57,218 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:57,460 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_165757.md
+2026-04-08 16:57:57,464 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_165757.md
+2026-04-08 16:57:57,481 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:57,720 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_165757.md
+2026-04-08 16:57:57,721 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_165757.md
+2026-04-08 16:57:57,738 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:58,021 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.Hussain_20260408_165758.md
+2026-04-08 16:57:58,026 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.H_20260408_165758.md
+2026-04-08 16:57:58,041 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:58,280 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_your_posts_got_29_impressions_last_20260408_165758.md
+2026-04-08 16:57:58,282 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_your_posts_got_29_impres_20260408_165758.md
+2026-04-08 16:57:58,298 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:58,552 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_165758.md
+2026-04-08 16:57:58,556 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260408_165758.md
+2026-04-08 16:57:58,580 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 16:57:58,837 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_Please_supp_20260408_165758.md
+2026-04-08 16:57:58,839 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_P_20260408_165758.md
+2026-04-08 16:57:58,850 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:45,165 - GmailWatcher - INFO - 
+Gmail Watcher stopped by user
+2026-04-08 17:16:49,497 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:16:49,497 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:16:50,910 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:16:52,421 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:16:52,422 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:16:52,423 - GmailWatcher - INFO - ============================================================
+2026-04-08 17:16:52,425 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-08 17:16:52,427 - GmailWatcher - INFO - Vault: .
+2026-04-08 17:16:52,430 - GmailWatcher - INFO - Check interval: 120s
+2026-04-08 17:16:52,432 - GmailWatcher - INFO - Dry run: False
+2026-04-08 17:16:52,435 - GmailWatcher - INFO - ============================================================
+2026-04-08 17:16:52,448 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-08 17:16:52,451 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-08 17:16:52,730 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 17:16:53,039 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__greeting_20260408_171653.md
+2026-04-08 17:16:53,042 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_greeting_20260408_171653.md
+2026-04-08 17:16:53,050 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_greeting_20260408_171653.md
+2026-04-08 17:16:53,073 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:53,376 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260408_171653.md
+2026-04-08 17:16:53,384 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260408_171653.md
+2026-04-08 17:16:53,390 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260408_171653.md
+2026-04-08 17:16:53,406 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:53,780 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_171653.md
+2026-04-08 17:16:53,784 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Urgent_-_Need_project_update_20260408_171653.md
+2026-04-08 17:16:53,792 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_171653.md
+2026-04-08 17:16:53,855 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:54,167 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Google__Security_alert_20260408_171654.md
+2026-04-08 17:16:54,186 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Security_alert_20260408_171654.md
+2026-04-08 17:16:54,202 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:54,573 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_171654.md
+2026-04-08 17:16:54,583 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_171654.md
+2026-04-08 17:16:54,594 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:54,884 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_171654.md
+2026-04-08 17:16:54,887 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_171654.md
+2026-04-08 17:16:54,903 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:55,202 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.Hussain_20260408_171655.md
+2026-04-08 17:16:55,206 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.H_20260408_171655.md
+2026-04-08 17:16:55,226 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:55,496 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_your_posts_got_29_impressions_last_20260408_171655.md
+2026-04-08 17:16:55,499 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_your_posts_got_29_impres_20260408_171655.md
+2026-04-08 17:16:55,521 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:55,910 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_171655.md
+2026-04-08 17:16:55,915 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260408_171655.md
+2026-04-08 17:16:55,937 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:16:56,268 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_Please_supp_20260408_171656.md
+2026-04-08 17:16:56,280 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_P_20260408_171656.md
+2026-04-08 17:16:56,293 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:27:37,689 - GmailWatcher - INFO - 
+Gmail Watcher stopped by user
+2026-04-08 17:28:41,479 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:28:41,480 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:28:42,907 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:28:44,411 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:28:44,412 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:28:44,435 - GmailWatcher - INFO - Found 1 approved email(s) to process
+2026-04-08 17:28:44,437 - GmailWatcher - INFO - 
+Processing: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 17:28:44,447 - GmailWatcher - INFO -   Action plan created: PLAN_EMAIL_Urgent_-_Need_project_update_20260408_172844.md
+2026-04-08 17:28:44,460 - GmailWatcher - INFO -   Draft reply created: GMAIL_Khansa_Urgent_-_Need_project_update_20260408_172844.md
+2026-04-08 17:28:44,466 - GmailWatcher - INFO -   Moved original to Done/: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 17:28:44,468 - GmailWatcher - INFO -   ✓ Successfully processed GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 17:28:44,476 - GmailWatcher - INFO - 
+============================================================
+2026-04-08 17:28:44,485 - GmailWatcher - INFO - Email processing complete: 1/1 processed
+2026-04-08 17:28:44,493 - GmailWatcher - INFO - ============================================================
+2026-04-08 17:29:14,830 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:29:14,831 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:29:16,075 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:29:17,395 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:29:17,396 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:29:17,409 - GmailWatcher - INFO - ============================================================
+2026-04-08 17:29:17,414 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-08 17:29:17,417 - GmailWatcher - INFO - Vault: .
+2026-04-08 17:29:17,427 - GmailWatcher - INFO - Check interval: 120s
+2026-04-08 17:29:17,434 - GmailWatcher - INFO - Dry run: False
+2026-04-08 17:29:17,445 - GmailWatcher - INFO - ============================================================
+2026-04-08 17:29:17,451 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-08 17:29:17,461 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-08 17:29:17,707 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 17:29:18,006 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__greeting_20260408_172918.md
+2026-04-08 17:29:18,011 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_greeting_20260408_172918.md
+2026-04-08 17:29:18,018 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_greeting_20260408_172918.md
+2026-04-08 17:29:18,040 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:18,303 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260408_172918.md
+2026-04-08 17:29:18,311 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260408_172918.md
+2026-04-08 17:29:18,315 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260408_172918.md
+2026-04-08 17:29:18,330 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:18,634 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 17:29:18,642 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 17:29:18,646 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 17:29:18,664 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:19,259 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Google__Security_alert_20260408_172919.md
+2026-04-08 17:29:19,269 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Security_alert_20260408_172919.md
+2026-04-08 17:29:19,289 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:19,647 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_172919.md
+2026-04-08 17:29:19,649 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_172919.md
+2026-04-08 17:29:19,661 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:19,946 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_172919.md
+2026-04-08 17:29:19,947 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_172919.md
+2026-04-08 17:29:19,969 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:20,278 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.Hussain_20260408_172920.md
+2026-04-08 17:29:20,280 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.H_20260408_172920.md
+2026-04-08 17:29:20,286 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:20,564 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_your_posts_got_29_impressions_last_20260408_172920.md
+2026-04-08 17:29:20,570 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_your_posts_got_29_impres_20260408_172920.md
+2026-04-08 17:29:20,586 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:20,870 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_172920.md
+2026-04-08 17:29:20,871 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260408_172920.md
+2026-04-08 17:29:20,885 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:21,193 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_Please_supp_20260408_172921.md
+2026-04-08 17:29:21,198 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_亗Malik亗๛S』__90's_old_song_vibes_📻🎧❤️🖤🩶_P_20260408_172921.md
+2026-04-08 17:29:21,216 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 17:29:23,709 - GmailWatcher - INFO - 
+Gmail Watcher stopped by user
+2026-04-08 17:29:36,826 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:29:36,826 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:29:38,298 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:29:39,710 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:29:39,711 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:29:40,015 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 17:46:18,014 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:46:18,015 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:46:19,456 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:46:20,977 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:46:20,978 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:46:20,982 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 17:52:02,400 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:52:02,400 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:52:03,733 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:52:05,146 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:52:05,147 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:52:05,151 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 17:53:21,876 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:53:21,877 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:53:23,400 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:53:24,620 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:53:24,621 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:53:24,652 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 17:56:28,347 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:56:28,348 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:56:29,767 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:56:31,284 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:56:31,285 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:56:31,336 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 17:57:06,869 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 17:57:06,870 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 17:57:08,282 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 17:57:09,696 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 17:57:09,696 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 17:57:09,990 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 18:09:25,671 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 18:09:25,671 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 18:09:27,160 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 18:09:28,502 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 18:09:28,503 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 18:09:28,527 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 18:10:12,216 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 18:10:12,217 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 18:10:13,679 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 18:10:15,197 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 18:10:15,198 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 18:10:15,219 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 18:10:36,843 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 18:10:36,844 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 18:10:38,463 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 18:10:39,778 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 18:10:39,779 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 18:10:39,810 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:10:39,816 - GmailWatcher - INFO - SENDING APPROVED EMAIL REPLIES
+2026-04-08 18:10:39,826 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:10:39,834 - GmailWatcher - INFO - Found 11 file(s) in Pending_Approval/
+2026-04-08 18:10:39,841 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,848 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_165756.md
+2026-04-08 18:10:39,860 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,866 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:39,875 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,881 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_171653.md
+2026-04-08 18:10:39,893 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,895 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:39,896 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,907 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_172918.md
+2026-04-08 18:10:39,911 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,918 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:39,925 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,933 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:10:39,943 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,946 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:39,952 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,954 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:10:39,958 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,960 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:39,962 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,974 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:10:39,978 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,980 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:39,981 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:39,984 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_165233.md
+2026-04-08 18:10:39,989 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:39,997 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:40,005 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:40,011 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_165756.md
+2026-04-08 18:10:40,021 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:40,023 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:40,025 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:40,027 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_171653.md
+2026-04-08 18:10:40,042 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:40,044 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:40,046 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:40,048 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_172918.md
+2026-04-08 18:10:40,054 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:40,056 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:10:40,057 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:10:40,059 - GmailWatcher - INFO - Processing: GMAIL_Khansa_Urgent_-_Need_project_update_20260408_172844.md
+2026-04-08 18:10:40,077 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:10:40,079 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:10:40,081 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:10:40,084 - GmailWatcher - INFO -   Body length: 382 chars
+2026-04-08 18:10:40,093 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 18:10:40,100 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:10:40,592 - googleapiclient.http - WARNING - Encountered 403 Forbidden with reason "insufficientPermissions"
+2026-04-08 18:10:40,594 - GmailWatcher - ERROR - ✗ Failed to send email: <HttpError 403 when requesting https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json returned "Request had insufficient authentication scopes.". Details: "[{'message': 'Insufficient Permission', 'domain': 'global', 'reason': 'insufficientPermissions'}]">
+2026-04-08 18:10:40,785 - GmailWatcher - ERROR -   ✗ Failed to send email
+2026-04-08 18:10:40,786 - GmailWatcher - INFO - 
+============================================================
+2026-04-08 18:10:40,791 - GmailWatcher - INFO - APPROVED EMAIL SENDING COMPLETE
+2026-04-08 18:10:40,793 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:10:40,801 - GmailWatcher - INFO -   ✅ Sent successfully: 0
+2026-04-08 18:10:40,803 - GmailWatcher - INFO -   ⏭️  Skipped (not approved/already sent): 0
+2026-04-08 18:10:40,805 - GmailWatcher - INFO -   ❌ Failed: 11
+2026-04-08 18:10:40,807 - GmailWatcher - INFO -   📦 Total processed: 11
+2026-04-08 18:10:40,810 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:28:39,651 - GmailWatcher - INFO - Starting OAuth flow...
+2026-04-08 18:28:39,652 - GmailWatcher - INFO - Browser will open for authorization...
+2026-04-08 18:28:40,140 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=485069106798-e9gmstb1g0n0grtoemj2k23vegm837rq.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.compose+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.send&state=kET70UzHUhBPGWr2wwPwiPowHQSUId&code_challenge=g2D9VEs5U91K4OkKPJYR0lHITy7rjubRE105yXIdomI&code_challenge_method=S256&access_type=offline
+2026-04-08 18:28:58,077 - google_auth_oauthlib.flow - INFO - "GET /?state=kET70UzHUhBPGWr2wwPwiPowHQSUId&iss=https://accounts.google.com&code=4/0Aci98E-yMwmGoQ2LUMkn4M3YxAbxAs97yecFqJCZ5rkqoHQlO_cGbJJPTPzMVXQOVBIarg&scope=https://www.googleapis.com/auth/gmail.readonly HTTP/1.1" 200 65
+2026-04-08 18:29:00,298 - GmailWatcher - ERROR - OAuth flow failed: Scope has changed from "https://www.googleapis.com/auth/gmail.compose https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.readonly" to "https://www.googleapis.com/auth/gmail.readonly".
+2026-04-08 18:29:00,299 - GmailWatcher - ERROR - 
+Run: python setup_gmail.py
+2026-04-08 18:33:11,570 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 18:33:11,579 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 18:33:12,788 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 18:33:12,789 - GmailWatcher - INFO -    Total messages: 100
+2026-04-08 18:33:12,791 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:33:12,792 - GmailWatcher - INFO - SENDING APPROVED EMAIL REPLIES
+2026-04-08 18:33:12,792 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:33:12,794 - GmailWatcher - INFO - Found 11 file(s) in Pending_Approval/
+2026-04-08 18:33:12,795 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,796 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_165756.md
+2026-04-08 18:33:12,798 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,799 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,801 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,802 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_171653.md
+2026-04-08 18:33:12,805 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,806 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,807 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,809 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_172918.md
+2026-04-08 18:33:12,811 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,813 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,814 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,815 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:33:12,818 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,820 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,822 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,823 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:33:12,825 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,827 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,828 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,829 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:33:12,832 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,833 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,835 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,836 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_165233.md
+2026-04-08 18:33:12,838 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,840 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,841 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,843 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_165756.md
+2026-04-08 18:33:12,845 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,847 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,848 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,849 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_171653.md
+2026-04-08 18:33:12,852 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,854 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,855 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,856 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_172918.md
+2026-04-08 18:33:12,858 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,860 - GmailWatcher - ERROR -   ✗ Missing 'to' or 'body' in draft - skipping
+2026-04-08 18:33:12,861 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:33:12,862 - GmailWatcher - INFO - Processing: GMAIL_Khansa_Urgent_-_Need_project_update_20260408_172844.md
+2026-04-08 18:33:12,864 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:33:12,866 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:33:12,867 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:33:12,868 - GmailWatcher - INFO -   Body length: 382 chars
+2026-04-08 18:33:12,869 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 18:33:12,870 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:33:13,607 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4c0a7b2dfe2
+2026-04-08 18:33:13,608 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:33:13,608 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:33:13,609 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4c0a7b2dfe2
+2026-04-08 18:33:13,611 - GmailWatcher - INFO -   ✓ Draft file updated: GMAIL_Khansa_Urgent_-_Need_project_update_20260408_172844.md
+2026-04-08 18:33:13,617 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__Urgent_-_Need_project_update_20260408_160920.md
+2026-04-08 18:33:13,620 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa_Urgent_-_Need_project_update_20260408_172844.md
+2026-04-08 18:33:13,621 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:33:13,621 - GmailWatcher - INFO - 
+============================================================
+2026-04-08 18:33:13,622 - GmailWatcher - INFO - APPROVED EMAIL SENDING COMPLETE
+2026-04-08 18:33:13,622 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:33:13,623 - GmailWatcher - INFO -   ✅ Sent successfully: 1
+2026-04-08 18:33:13,623 - GmailWatcher - INFO -   ⏭️  Skipped (not approved/already sent): 0
+2026-04-08 18:33:13,624 - GmailWatcher - INFO -   ❌ Failed: 10
+2026-04-08 18:33:13,624 - GmailWatcher - INFO -   📦 Total processed: 11
+2026-04-08 18:33:13,624 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:36:09,579 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 18:36:09,592 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 18:36:10,972 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 18:36:10,973 - GmailWatcher - INFO -    Total messages: 101
+2026-04-08 18:36:10,975 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:36:10,975 - GmailWatcher - INFO - SENDING APPROVED EMAIL REPLIES
+2026-04-08 18:36:10,976 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:36:10,978 - GmailWatcher - INFO - Found 10 file(s) in Pending_Approval/
+2026-04-08 18:36:10,979 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:10,980 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_165756.md
+2026-04-08 18:36:10,982 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:10,983 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:10,984 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 18:36:10,985 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:10,986 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__greeting_20260408_165756.md
+2026-04-08 18:36:10,989 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:11,682 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ec25edf66c
+2026-04-08 18:36:11,684 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:11,685 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 18:36:11,686 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ec25edf66c
+2026-04-08 18:36:11,690 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_greeting_20260408_165756.md
+2026-04-08 18:36:11,694 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__greeting_20260408_165756.md
+2026-04-08 18:36:11,700 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_greeting_20260408_165756.md
+2026-04-08 18:36:11,705 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__greeting_20260408_165756.md
+2026-04-08 18:36:11,707 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:11,708 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:11,709 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_171653.md
+2026-04-08 18:36:11,712 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:11,715 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:11,717 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 18:36:11,719 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:11,720 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__greeting_20260408_171653.md
+2026-04-08 18:36:11,722 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:12,429 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ec4a3bb39f
+2026-04-08 18:36:12,431 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:12,432 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 18:36:12,435 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ec4a3bb39f
+2026-04-08 18:36:12,439 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_greeting_20260408_171653.md
+2026-04-08 18:36:12,443 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__greeting_20260408_171653.md
+2026-04-08 18:36:12,447 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_greeting_20260408_171653.md
+2026-04-08 18:36:12,452 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__greeting_20260408_171653.md
+2026-04-08 18:36:12,456 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:12,457 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:12,459 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_172918.md
+2026-04-08 18:36:12,462 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:12,464 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:12,466 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 18:36:12,466 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:12,469 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__greeting_20260408_172918.md
+2026-04-08 18:36:12,471 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:13,217 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ec8b725457
+2026-04-08 18:36:13,221 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:13,222 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 18:36:13,227 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ec8b725457
+2026-04-08 18:36:13,229 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_greeting_20260408_172918.md
+2026-04-08 18:36:13,231 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__greeting_20260408_172918.md
+2026-04-08 18:36:13,235 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_greeting_20260408_172918.md
+2026-04-08 18:36:13,237 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__greeting_20260408_172918.md
+2026-04-08 18:36:13,238 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:13,239 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:13,240 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:36:13,241 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:13,242 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:13,242 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:36:13,243 - GmailWatcher - INFO -   Body length: 221 chars
+2026-04-08 18:36:13,243 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:36:13,244 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:14,271 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ecd929776d
+2026-04-08 18:36:14,272 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:14,273 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:36:14,274 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ecd929776d
+2026-04-08 18:36:14,277 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:36:14,281 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:36:14,285 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:36:14,293 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165234.md
+2026-04-08 18:36:14,295 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:14,296 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:14,298 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:36:14,302 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:14,304 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:14,306 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:36:14,307 - GmailWatcher - INFO -   Body length: 221 chars
+2026-04-08 18:36:14,308 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:36:14,310 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:15,002 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ecf7a6c33d
+2026-04-08 18:36:15,003 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:15,003 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:36:15,004 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ecf7a6c33d
+2026-04-08 18:36:15,005 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:36:15,006 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:36:15,007 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:36:15,009 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_165756.md
+2026-04-08 18:36:15,010 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:15,010 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:15,011 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:36:15,012 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:15,013 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:15,013 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:36:15,014 - GmailWatcher - INFO -   Body length: 221 chars
+2026-04-08 18:36:15,014 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:36:15,016 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:15,708 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ed3c17431a
+2026-04-08 18:36:15,710 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:15,712 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 18:36:15,713 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ed3c17431a
+2026-04-08 18:36:15,722 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:36:15,726 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:36:15,733 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:36:15,739 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_172918.md
+2026-04-08 18:36:15,741 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:15,743 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:15,746 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_165233.md
+2026-04-08 18:36:15,750 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:15,754 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:15,755 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:15,756 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:15,757 - GmailWatcher - INFO -   Original file: GMAIL_Khansa___20260408_165233.md
+2026-04-08 18:36:15,758 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:16,516 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ed40bdca03
+2026-04-08 18:36:16,517 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:16,518 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:16,520 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ed40bdca03
+2026-04-08 18:36:16,523 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY__20260408_165233.md
+2026-04-08 18:36:16,527 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa___20260408_165233.md
+2026-04-08 18:36:16,531 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY__20260408_165233.md
+2026-04-08 18:36:16,535 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa___20260408_165233.md
+2026-04-08 18:36:16,537 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:16,538 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:16,540 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_165756.md
+2026-04-08 18:36:16,543 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:16,545 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:16,546 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:16,548 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:16,549 - GmailWatcher - INFO -   Original file: GMAIL_Khansa___20260408_165756.md
+2026-04-08 18:36:16,550 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:17,233 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ed91f8859b
+2026-04-08 18:36:17,234 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:17,235 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:17,235 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ed91f8859b
+2026-04-08 18:36:17,237 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY__20260408_165756.md
+2026-04-08 18:36:17,241 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa___20260408_165756.md
+2026-04-08 18:36:17,243 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY__20260408_165756.md
+2026-04-08 18:36:17,245 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa___20260408_165756.md
+2026-04-08 18:36:17,247 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:17,251 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:17,252 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_171653.md
+2026-04-08 18:36:17,253 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:17,254 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:17,255 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:17,256 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:17,257 - GmailWatcher - INFO -   Original file: GMAIL_Khansa___20260408_171653.md
+2026-04-08 18:36:17,257 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:18,224 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4edb1358a53
+2026-04-08 18:36:18,225 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:18,225 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:18,225 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4edb1358a53
+2026-04-08 18:36:18,226 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY__20260408_171653.md
+2026-04-08 18:36:18,228 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa___20260408_171653.md
+2026-04-08 18:36:18,231 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY__20260408_171653.md
+2026-04-08 18:36:18,233 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa___20260408_171653.md
+2026-04-08 18:36:18,234 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:18,235 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 18:36:18,235 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_172918.md
+2026-04-08 18:36:18,236 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 18:36:18,237 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:18,237 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:18,237 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 18:36:18,238 - GmailWatcher - INFO -   Original file: GMAIL_Khansa___20260408_172918.md
+2026-04-08 18:36:18,238 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 18:36:18,944 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6d4ede2b597d4
+2026-04-08 18:36:18,947 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 18:36:18,948 - GmailWatcher - INFO -   Subject: 
+2026-04-08 18:36:18,948 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6d4ede2b597d4
+2026-04-08 18:36:18,951 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY__20260408_172918.md
+2026-04-08 18:36:18,953 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa___20260408_172918.md
+2026-04-08 18:36:18,954 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY__20260408_172918.md
+2026-04-08 18:36:18,957 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa___20260408_172918.md
+2026-04-08 18:36:18,958 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 18:36:18,959 - GmailWatcher - INFO - 
+============================================================
+2026-04-08 18:36:18,960 - GmailWatcher - INFO - APPROVED EMAIL SENDING COMPLETE
+2026-04-08 18:36:18,960 - GmailWatcher - INFO - ============================================================
+2026-04-08 18:36:18,964 - GmailWatcher - INFO -   ✅ Sent successfully: 10
+2026-04-08 18:36:18,965 - GmailWatcher - INFO -   ⏭️  Skipped (not approved/already sent): 0
+2026-04-08 18:36:18,965 - GmailWatcher - INFO -   ❌ Failed: 0
+2026-04-08 18:36:18,966 - GmailWatcher - INFO -   📦 Total processed: 10
+2026-04-08 18:36:18,967 - GmailWatcher - INFO - ============================================================
+2026-04-08 20:19:34,288 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 20:19:34,289 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 20:19:35,270 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 20:19:36,265 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 20:19:36,265 - GmailWatcher - INFO -    Total messages: 113
+2026-04-08 20:19:36,265 - GmailWatcher - INFO - ============================================================
+2026-04-08 20:19:36,266 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-08 20:19:36,266 - GmailWatcher - INFO - Vault: .
+2026-04-08 20:19:36,266 - GmailWatcher - INFO - Check interval: 120s
+2026-04-08 20:19:36,266 - GmailWatcher - INFO - Dry run: False
+2026-04-08 20:19:36,266 - GmailWatcher - INFO - ============================================================
+2026-04-08 20:19:36,267 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-08 20:19:36,267 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-08 20:19:36,495 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-08 20:19:36,726 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260408_201936.md
+2026-04-08 20:19:36,730 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260408_201936.md
+2026-04-08 20:19:36,736 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260408_201936.md
+2026-04-08 20:19:36,752 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:37,024 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260408_201937.md
+2026-04-08 20:19:37,028 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260408_201937.md
+2026-04-08 20:19:37,041 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:37,292 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__greeting_20260408_201937.md
+2026-04-08 20:19:37,294 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_greeting_20260408_201937.md
+2026-04-08 20:19:37,296 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_greeting_20260408_201937.md
+2026-04-08 20:19:37,305 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:37,542 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260408_201937.md
+2026-04-08 20:19:37,544 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260408_201937.md
+2026-04-08 20:19:37,548 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260408_201937.md
+2026-04-08 20:19:37,556 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:37,793 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:19:37,797 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:19:37,803 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:19:37,819 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:38,057 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Google__Security_alert_20260408_201938.md
+2026-04-08 20:19:38,059 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Security_alert_20260408_201938.md
+2026-04-08 20:19:38,069 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:38,337 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_201938.md
+2026-04-08 20:19:38,341 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_201938.md
+2026-04-08 20:19:38,359 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:38,604 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__New_device_registration_for_Remember_me_20260408_201938.md
+2026-04-08 20:19:38,605 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_New_device_registration_for_Remember_me_20260408_201938.md
+2026-04-08 20:19:38,613 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:39,009 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.Hussain_20260408_201939.md
+2026-04-08 20:19:39,013 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_💬_Khansa_Tanveer,_add_Abdullah_Ahmed_M.H_20260408_201939.md
+2026-04-08 20:19:39,023 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:39,267 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_your_posts_got_29_impressions_last_20260408_201939.md
+2026-04-08 20:19:39,269 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_your_posts_got_29_impres_20260408_201939.md
+2026-04-08 20:19:39,273 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-08 20:19:52,162 - GmailWatcher - INFO - 
+Gmail Watcher stopped by user
+2026-04-08 20:19:55,732 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 20:19:55,733 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 20:19:56,677 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 20:19:57,593 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 20:19:57,594 - GmailWatcher - INFO -    Total messages: 113
+2026-04-08 20:19:57,617 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 20:23:39,156 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 20:23:39,156 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 20:23:40,092 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 20:23:41,309 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 20:23:41,309 - GmailWatcher - INFO -    Total messages: 113
+2026-04-08 20:23:41,326 - GmailWatcher - INFO - No approved email files found in Approved/
+2026-04-08 20:24:05,590 - GmailWatcher - INFO - Loaded existing token
+2026-04-08 20:24:05,591 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-08 20:24:06,542 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-08 20:24:07,420 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-08 20:24:07,421 - GmailWatcher - INFO -    Total messages: 113
+2026-04-08 20:24:07,446 - GmailWatcher - INFO - ============================================================
+2026-04-08 20:24:07,448 - GmailWatcher - INFO - SENDING APPROVED EMAIL REPLIES
+2026-04-08 20:24:07,449 - GmailWatcher - INFO - ============================================================
+2026-04-08 20:24:07,452 - GmailWatcher - INFO - Found 4 file(s) in Pending_Approval/
+2026-04-08 20:24:07,453 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 20:24:07,465 - GmailWatcher - INFO - Processing: EMAIL_REPLY_greeting_20260408_201937.md
+2026-04-08 20:24:07,467 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 20:24:07,468 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:07,468 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 20:24:07,469 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 20:24:07,470 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__greeting_20260408_201937.md
+2026-04-08 20:24:07,471 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 20:24:08,064 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6db1952bc8271
+2026-04-08 20:24:08,065 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:08,068 - GmailWatcher - INFO -   Subject: Re: greeting
+2026-04-08 20:24:08,076 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6db1952bc8271
+2026-04-08 20:24:08,079 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_greeting_20260408_201937.md
+2026-04-08 20:24:08,085 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__greeting_20260408_201937.md
+2026-04-08 20:24:08,089 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_greeting_20260408_201937.md
+2026-04-08 20:24:08,098 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__greeting_20260408_201937.md
+2026-04-08 20:24:08,099 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 20:24:08,105 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 20:24:08,106 - GmailWatcher - INFO - Processing: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:24:08,108 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 20:24:08,110 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:08,113 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 20:24:08,120 - GmailWatcher - INFO -   Body length: 221 chars
+2026-04-08 20:24:08,120 - GmailWatcher - INFO -   Original file: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:24:08,121 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 20:24:08,867 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6db196f0f1cf5
+2026-04-08 20:24:08,867 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:08,870 - GmailWatcher - INFO -   Subject: Re: Urgent - Need project update
+2026-04-08 20:24:08,877 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6db196f0f1cf5
+2026-04-08 20:24:08,879 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:24:08,880 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa__Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:24:08,881 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY_Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:24:08,883 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa__Urgent_-_Need_project_update_20260408_201937.md
+2026-04-08 20:24:08,884 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 20:24:08,885 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 20:24:08,885 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_201936.md
+2026-04-08 20:24:08,887 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 20:24:08,896 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:08,897 - GmailWatcher - INFO -   Subject: Re:
+2026-04-08 20:24:08,898 - GmailWatcher - INFO -   Body length: 210 chars
+2026-04-08 20:24:08,899 - GmailWatcher - INFO -   Original file: GMAIL_Khansa___20260408_201936.md
+2026-04-08 20:24:08,900 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 20:24:09,486 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6db198d9c5039
+2026-04-08 20:24:09,487 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:09,497 - GmailWatcher - INFO -   Subject: Re:
+2026-04-08 20:24:09,511 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6db198d9c5039
+2026-04-08 20:24:09,513 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY__20260408_201936.md
+2026-04-08 20:24:09,517 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa___20260408_201936.md
+2026-04-08 20:24:09,526 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY__20260408_201936.md
+2026-04-08 20:24:09,528 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa___20260408_201936.md
+2026-04-08 20:24:09,530 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 20:24:09,536 - GmailWatcher - INFO - 
+────────────────────────────────────────────────────────────
+2026-04-08 20:24:09,537 - GmailWatcher - INFO - Processing: EMAIL_REPLY__20260408_201937.md
+2026-04-08 20:24:09,546 - GmailWatcher - INFO -   ✓ File is APPROVED for sending
+2026-04-08 20:24:09,548 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:09,549 - GmailWatcher - INFO -   Subject: Re:
+2026-04-08 20:24:09,549 - GmailWatcher - INFO -   Body length: 194 chars
+2026-04-08 20:24:09,550 - GmailWatcher - INFO -   Original file: GMAIL_Khansa___20260408_201937.md
+2026-04-08 20:24:09,551 - GmailWatcher - INFO -   📤 Sending email...
+2026-04-08 20:24:10,390 - GmailWatcher - INFO - ✓ Email sent successfully! Message ID: 19d6db19c968f4fb
+2026-04-08 20:24:10,391 - GmailWatcher - INFO -   To: Khansa <khansatanveerahmed@gmail.com>
+2026-04-08 20:24:10,398 - GmailWatcher - INFO -   Subject: Re:
+2026-04-08 20:24:10,405 - GmailWatcher - INFO -   ✓ Email sent! Message ID: 19d6db19c968f4fb
+2026-04-08 20:24:10,410 - GmailWatcher - INFO -   ✓ Draft file updated: EMAIL_REPLY__20260408_201937.md
+2026-04-08 20:24:10,418 - GmailWatcher - WARNING -   No matching action plan found for GMAIL_Khansa___20260408_201937.md
+2026-04-08 20:24:10,423 - GmailWatcher - INFO -   ✓ Moved to Done/: EMAIL_REPLY__20260408_201937.md
+2026-04-08 20:24:10,434 - GmailWatcher - INFO -   ✓ Moved to Done/: GMAIL_Khansa___20260408_201937.md
+2026-04-08 20:24:10,435 - GmailWatcher - INFO -   ✅ SUCCESS: Email sent and files updated
+2026-04-08 20:24:10,444 - GmailWatcher - INFO - 
+============================================================
+2026-04-08 20:24:10,444 - GmailWatcher - INFO - APPROVED EMAIL SENDING COMPLETE
+2026-04-08 20:24:10,445 - GmailWatcher - INFO - ============================================================
+2026-04-08 20:24:10,446 - GmailWatcher - INFO -   ✅ Sent successfully: 4
+2026-04-08 20:24:10,447 - GmailWatcher - INFO -   ⏭️  Skipped (not approved/already sent): 0
+2026-04-08 20:24:10,448 - GmailWatcher - INFO -   ❌ Failed: 0
+2026-04-08 20:24:10,449 - GmailWatcher - INFO -   📦 Total processed: 4
+2026-04-08 20:24:10,450 - GmailWatcher - INFO - ============================================================

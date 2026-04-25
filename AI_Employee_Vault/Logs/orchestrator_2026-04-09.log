@@ -1,0 +1,9 @@
+2026-04-09 16:39:24,628 - Orchestrator - INFO - Starting orchestrator (mode: all)
+2026-04-09 16:39:24,635 - Orchestrator - INFO - Started watcher: FileSystem (PID: 18012)
+2026-04-09 16:39:24,643 - Orchestrator - INFO - Started watcher: Gmail (PID: 12800)
+2026-04-09 16:39:24,651 - Orchestrator - INFO - Started watcher: WhatsApp (PID: 21260)
+2026-04-09 16:57:33,870 - Orchestrator - INFO - Shutting down...
+2026-04-09 17:13:07,328 - Orchestrator - INFO - Starting orchestrator (mode: all)
+2026-04-09 17:13:07,340 - Orchestrator - INFO - Started watcher: FileSystem (PID: 10832)
+2026-04-09 17:13:07,350 - Orchestrator - INFO - Started watcher: Gmail (PID: 5536)
+2026-04-09 17:13:07,360 - Orchestrator - INFO - Started watcher: WhatsApp (PID: 1012)

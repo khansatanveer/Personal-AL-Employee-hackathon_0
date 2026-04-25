@@ -1,0 +1,235 @@
+2026-04-09 16:39:24,824 - INFO - Starting WhatsApp Watcher (interval: 30s)
+2026-04-09 16:39:53,120 - ERROR - Error checking WhatsApp: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list\"]") to be visible
+
+2026-04-09 16:57:33,870 - INFO - WhatsApp Watcher stopped by user
+2026-04-09 17:13:07,813 - INFO - Starting WhatsApp Watcher (interval: 30s)
+2026-04-09 17:13:29,557 - ERROR - Error checking WhatsApp: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("[data-testid=\"chat-list\"]") to be visible
+
+2026-04-09 17:13:59,559 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:14:29,565 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:14:59,566 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:15:29,568 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:15:59,571 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:16:29,573 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:16:59,574 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:17:29,576 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:17:59,578 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:18:29,578 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:18:59,580 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:19:29,582 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:19:59,584 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:20:29,586 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:20:59,588 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:21:29,590 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:21:59,592 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:22:29,593 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:22:59,595 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:23:29,597 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:23:59,599 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:24:29,601 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:24:59,606 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:25:29,608 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:25:59,616 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:26:29,618 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:26:59,620 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:27:29,622 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:27:59,624 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:28:29,626 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:28:59,628 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:29:29,630 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:29:59,632 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:30:29,634 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:30:59,636 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:31:29,645 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:31:59,654 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:32:29,711 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:32:59,713 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:33:29,715 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:33:59,717 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:34:29,719 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:34:59,721 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:35:29,723 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:35:59,725 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:36:29,727 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:36:59,729 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:37:29,731 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:37:59,733 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:38:29,735 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:38:59,737 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:39:29,739 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:39:59,741 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:40:29,743 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:40:59,745 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:41:29,747 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:41:59,749 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:42:29,750 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:42:59,752 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:43:29,754 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:43:59,758 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:44:29,760 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:44:59,762 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:45:29,764 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:45:59,766 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:46:29,767 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:46:59,769 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:47:29,772 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:47:59,775 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:48:29,777 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:48:59,779 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:49:29,781 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:49:59,783 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:50:29,784 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:50:59,787 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:51:29,789 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:51:59,791 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:52:29,793 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:52:59,795 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:53:29,797 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:53:59,799 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:54:29,801 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:54:59,803 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:55:29,805 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:55:59,807 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:56:29,809 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:56:59,811 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:57:29,813 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:57:59,815 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:58:29,816 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:58:59,818 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:59:29,819 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 17:59:59,821 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:00:29,823 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:00:59,824 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:01:29,826 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:01:59,828 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:02:29,830 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:02:59,832 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:03:29,834 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:03:59,836 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:04:29,837 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:04:59,839 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:05:29,840 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:05:59,842 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:06:29,845 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:06:59,851 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:07:29,853 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:07:59,854 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:08:29,856 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:08:59,858 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-04-09 18:09:29,862 - ERROR - Error checking WhatsApp: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.

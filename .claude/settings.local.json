@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python watchers/filesystem_watcher.py:*)"
+    ]
+  }
+}

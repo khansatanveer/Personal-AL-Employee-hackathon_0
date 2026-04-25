@@ -1,0 +1,92 @@
+2026-04-13 15:42:01,860 - GmailWatcher - INFO - Loaded existing token
+2026-04-13 15:42:01,861 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-13 15:42:03,817 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-13 15:42:05,362 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-13 15:42:05,367 - GmailWatcher - INFO -    Total messages: 124
+2026-04-13 15:42:05,367 - GmailWatcher - INFO - ============================================================
+2026-04-13 15:42:05,367 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-13 15:42:05,368 - GmailWatcher - INFO - Vault: .
+2026-04-13 15:42:05,368 - GmailWatcher - INFO - Check interval: 120s
+2026-04-13 15:42:05,369 - GmailWatcher - INFO - Dry run: False
+2026-04-13 15:42:05,369 - GmailWatcher - INFO - ============================================================
+2026-04-13 15:42:05,369 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-13 15:42:05,370 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-13 15:42:05,674 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-13 15:42:06,138 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154206.md
+2026-04-13 15:42:06,141 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154206.md
+2026-04-13 15:42:06,159 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:06,466 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__1_profile_view_20260413_154206.md
+2026-04-13 15:42:06,470 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_1_profile_view_20260413_154206.md
+2026-04-13 15:42:06,476 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:06,771 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_follow_Amina_Habib_-_Gestionnaire__20260413_154206.md
+2026-04-13 15:42:06,773 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_follow_Amina_Habib_-_Ges_20260413_154206.md
+2026-04-13 15:42:06,779 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:07,082 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Pooja_Doshi_-_Talent_Acquisition_Specialist_just_s_20260413_154207.md
+2026-04-13 15:42:07,086 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Pooja_Doshi_-_Talent_Acquisition_Special_20260413_154207.md
+2026-04-13 15:42:07,095 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:07,384 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154207.md
+2026-04-13 15:42:07,387 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154207.md
+2026-04-13 15:42:07,393 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:07,635 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154207.md
+2026-04-13 15:42:07,637 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154207.md
+2026-04-13 15:42:07,643 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:07,895 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__Reborn_beauty_palace__Vaseline_Daily_brightening_b_20260413_154207.md
+2026-04-13 15:42:07,897 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Reborn_beauty_palace__Vaseline_Daily_bri_20260413_154207.md
+2026-04-13 15:42:07,904 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:08,200 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260413_154208.md
+2026-04-13 15:42:08,203 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260413_154208.md
+2026-04-13 15:42:08,206 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260413_154208.md
+2026-04-13 15:42:08,212 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:08,513 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154208.md
+2026-04-13 15:42:08,517 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154208.md
+2026-04-13 15:42:08,524 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:42:08,825 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__greeting_20260413_154208.md
+2026-04-13 15:42:08,828 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_greeting_20260413_154208.md
+2026-04-13 15:42:08,831 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_greeting_20260413_154208.md
+2026-04-13 15:42:08,839 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:09,329 - GmailWatcher - INFO - Loaded existing token
+2026-04-13 15:46:09,329 - GmailWatcher - INFO - Refreshing expired token...
+2026-04-13 15:46:10,839 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-04-13 15:46:12,319 - GmailWatcher - INFO - ✓ Connected to Gmail: khansatanveer856@gmail.com
+2026-04-13 15:46:12,320 - GmailWatcher - INFO -    Total messages: 124
+2026-04-13 15:46:12,322 - GmailWatcher - INFO - ============================================================
+2026-04-13 15:46:12,322 - GmailWatcher - INFO - Gmail Watcher Starting...
+2026-04-13 15:46:12,323 - GmailWatcher - INFO - Vault: .
+2026-04-13 15:46:12,324 - GmailWatcher - INFO - Check interval: 120s
+2026-04-13 15:46:12,325 - GmailWatcher - INFO - Dry run: False
+2026-04-13 15:46:12,326 - GmailWatcher - INFO - ============================================================
+2026-04-13 15:46:12,326 - GmailWatcher - INFO - Monitoring Gmail for new messages...
+2026-04-13 15:46:12,327 - GmailWatcher - INFO - Press Ctrl+C to stop
+2026-04-13 15:46:12,626 - GmailWatcher - INFO - Found 10 new message(s)
+2026-04-13 15:46:12,940 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154612.md
+2026-04-13 15:46:12,943 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154612.md
+2026-04-13 15:46:12,957 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:13,260 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__1_profile_view_20260413_154613.md
+2026-04-13 15:46:13,263 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_1_profile_view_20260413_154613.md
+2026-04-13 15:46:13,271 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:13,621 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Khansa_Tanveer,_follow_Amina_Habib_-_Gestionnaire__20260413_154613.md
+2026-04-13 15:46:13,624 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Khansa_Tanveer,_follow_Amina_Habib_-_Ges_20260413_154613.md
+2026-04-13 15:46:13,630 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:13,972 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__Pooja_Doshi_-_Talent_Acquisition_Specialist_just_s_20260413_154613.md
+2026-04-13 15:46:13,975 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Pooja_Doshi_-_Talent_Acquisition_Special_20260413_154613.md
+2026-04-13 15:46:13,982 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:14,271 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154614.md
+2026-04-13 15:46:14,273 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154614.md
+2026-04-13 15:46:14,280 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:14,575 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154614.md
+2026-04-13 15:46:14,577 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154614.md
+2026-04-13 15:46:14,593 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:14,895 - GmailWatcher - INFO - ✓ Created action file: GMAIL_TikTok__Reborn_beauty_palace__Vaseline_Daily_brightening_b_20260413_154614.md
+2026-04-13 15:46:14,898 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_Reborn_beauty_palace__Vaseline_Daily_bri_20260413_154614.md
+2026-04-13 15:46:14,909 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:15,197 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa___20260413_154615.md
+2026-04-13 15:46:15,200 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL__20260413_154615.md
+2026-04-13 15:46:15,202 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY__20260413_154615.md
+2026-04-13 15:46:15,210 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:15,606 - GmailWatcher - INFO - ✓ Created action file: GMAIL_LinkedIn__You_appeared_in_recent_searches_20260413_154615.md
+2026-04-13 15:46:15,609 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_You_appeared_in_recent_searches_20260413_154615.md
+2026-04-13 15:46:15,618 - GmailWatcher - INFO - ✓ Dashboard updated
+2026-04-13 15:46:16,010 - GmailWatcher - INFO - ✓ Created action file: GMAIL_Khansa__greeting_20260413_154616.md
+2026-04-13 15:46:16,014 - GmailWatcher - INFO -   Plan created: PLAN_EMAIL_greeting_20260413_154616.md
+2026-04-13 15:46:16,016 - GmailWatcher - INFO -   Pending approval created: EMAIL_REPLY_greeting_20260413_154616.md
+2026-04-13 15:46:16,024 - GmailWatcher - INFO - ✓ Dashboard updated
